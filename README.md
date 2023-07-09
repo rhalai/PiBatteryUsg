@@ -7,11 +7,13 @@ Problem statement:
 Some builds have a lot of software, some of which take up more battery consumption than others, whilst this isnt really a problem for any Raspberry Pis that are always pluged-in. Thats said with todays electricity costs, maybe we should all try and be a little more efficent.
 
 I have a Raspberry PI Zero W, with a Enviro+ (Environment sensor+Air Quality) hat 
-Available from Pimoroni https://shop.pimoroni.com/products/enviro?variant=31155658457171
+Raspberry pi Zero W spec - ARM V7, Single Core, 512MB Memory, Wifi, Bluetooth
+Full specs : https://cdn.sparkfun.com/assets/learn_tutorials/6/7/6/PiZero_1.pdf
+
+Enviro+ available from Pimoroni  - https://shop.pimoroni.com/products/enviro?variant=31155658457171
 Currently running of a 10,000mah battery it lasts a couple of days, then needs to be swapped out.
 
-Solution:
-To 
+Possible solution:
 A) Continue to use Raspberry-Pi, and evaluate ways to reduce power consumption.
 B) To move away to an ESP powered device.
 
